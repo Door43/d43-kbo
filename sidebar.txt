@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kbo:home|Door43 (kbo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kbo|d43-kbo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kbo/archive/master.zip|d43-kbo.zip]]
+
+**Recent Changes**
+{{changes>ns = kbo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kbo|Ethnologue data]]
+
